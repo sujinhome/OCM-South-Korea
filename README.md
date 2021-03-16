@@ -4,6 +4,7 @@ These are the raw data and R codes that allow reconstruction of birth history in
 
 The results include age-specific fertility rate and total fertility rate of each district and year. 
 
-Raw data: 1966-2015 Census 2% sample (MDIS)
+Raw data: 1966-2015 Census 2% sample
+	- You need to download these data from MDIS<https://mdis.kostat.go.kr> 
 
 Reference: Lee-Jay Cho (1974)
